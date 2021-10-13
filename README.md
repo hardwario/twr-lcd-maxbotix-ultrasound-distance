@@ -2,7 +2,7 @@
 
 # Firmware for MaxBotix MB7066-100 ultrasound distance sensor
 
-[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-lcd-maxbotix-ultrasound-distance/master.svg)](https://travis-ci.org/bigclownprojects/bcf-lcd-maxbotix-ultrasound-distance)
+[![build](https://github.com/hardwario/twr-lcd-maxbotix-ultrasound-distance/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-lcd-maxbotix-ultrasound-distance/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-lcd-maxbotix-ultrasound-distance.svg)](https://github.com/bigclownprojects/bcf-lcd-maxbotix-ultrasound-distance/releases)
 [![License](https://img.shields.io/github/license/bigclownprojects/bcf-lcd-maxbotix-ultrasound-distance.svg)](https://github.com/bigclownprojects/bcf-lcd-maxbotix-ultrasound-distance/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
