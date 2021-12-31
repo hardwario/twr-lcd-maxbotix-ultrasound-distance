@@ -10,11 +10,11 @@
 ```
 Maxbotix connection
 
-Sensor Module pin       Maxbotix pin
--------------------------------------
-A (pulse in)            2 (pulse out)
-GND                     GND
-VCC                     V+
+Sensor Module pin       Maxbotix pin        Wire color
+------------------------------------------------------
+A (pulse in)            2 (pulse out)       Yellow
+GND                     GND                 Black
+VCC                     V+                  Red
 ```
 
 This repository contains firmware for [Core Module](https://shop.bigclown.com/core-module).
