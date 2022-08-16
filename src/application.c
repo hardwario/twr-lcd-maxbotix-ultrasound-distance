@@ -244,7 +244,7 @@ void application_task(void)
 
     twr_gfx_update(gfx);
 
-    twr_log_debug("%d cm", centimeters);
+    twr_log_debug("%d cm", (int)centimeters);
 
     twr_system_pll_disable();
     twr_scheduler_plan_current_from_now(DISTANCE_MEASURE_PERIOD);
